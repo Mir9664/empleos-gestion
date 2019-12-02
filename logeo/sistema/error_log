@@ -1,0 +1,2 @@
+[25-Jul-2018 18:25:38 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/sistema/index.php on line 8
+[25-Jul-2018 18:25:42 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/sistema/index.php on line 8

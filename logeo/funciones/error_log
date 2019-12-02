@@ -1,0 +1,17 @@
+[06-Feb-2018 15:42:58 America/Mexico_City] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home1/ittlaxia/public_html/sifat/funciones/ajax_add.php on line 1039
+[03-Aug-2018 17:38:08 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1769
+[03-Aug-2018 17:38:12 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1769
+[31-Aug-2018 22:04:10 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1887
+[09-Oct-2018 18:14:42 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1886
+[24-Oct-2018 10:04:20 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1886
+[26-Oct-2018 18:32:01 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1886
+[29-Oct-2018 12:07:14 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1886
+[29-Oct-2018 12:15:25 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1886
+[29-Oct-2018 12:49:08 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1886
+[23-Nov-2018 16:37:04 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1910
+[23-Nov-2018 16:38:11 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1910
+[25-Feb-2019 12:20:48 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1929
+[25-Feb-2019 12:20:52 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1929
+[25-Feb-2019 12:20:52 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1929
+[25-Feb-2019 12:20:52 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1929
+[25-Feb-2019 12:20:52 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/placasme/me.placas-mexico.mx/funciones/ajax_add.php on line 1929

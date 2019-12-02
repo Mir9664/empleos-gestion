@@ -1,0 +1,15 @@
+.demo {
+    width: 100%;
+    border: 1px solid #C0C0C0;
+}
+.demo th {
+    border: 1px solid #C0C0C0;
+    background: #FFFFFF;
+}
+.demo td {
+    border: 1px solid #C0C0C0;
+}
+/*DOCUMENTOS DE VIATICOS*/
+#tituloTabla{
+	background-color: #c0c0c0;
+}
