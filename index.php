@@ -40,7 +40,7 @@
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="#home">Inicio</a></li>
-				          <li><a href="logeo/registro/index.php">Iniciar Sesión</a></li>
+				          <li><a href="logeo/">Iniciar Sesión</a></li>
 				          <li><a href="logeo/registro/index.php">Registrarse</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->		    		
