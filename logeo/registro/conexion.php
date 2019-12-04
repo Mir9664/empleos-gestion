@@ -1,5 +1,5 @@
 <?php
-$con = new mysqli("127.0.0.1:3307", "root", "", "pw");
+$con = new mysqli("us-cdbr-iron-east-05.cleardb.net", "b86215deba7ef4", "9295d684", "heroku_872456c89d48216");
 if ($con->connect_errno)
 {
     echo "Fallo al conectar a MySQL: (" . $con->connect_errno . ") " . $con->connect_error;
