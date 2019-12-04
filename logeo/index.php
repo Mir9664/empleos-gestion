@@ -128,7 +128,7 @@
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <b><a href="../index.html">Volver a Inicio</a>
+                        <b><a href="../index.php">Volver a Inicio</a>
                     </div>
                     <div class="col-md-5" align="right">
                         <b><?php echo DiaFechaCompleta(); ?></b>
