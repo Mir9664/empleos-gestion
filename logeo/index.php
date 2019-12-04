@@ -1,5 +1,5 @@
 <?php
-    require 'registro/conexion.php';
+    require 'seguridad/conn_mysqli.php';
     require 'includes/fechas.php';
    
     $resultado=$conn->query("SELECT *FROM empresa");
