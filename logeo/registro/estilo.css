@@ -1,0 +1,16 @@
+.col-xs-12 .container{
+	width: 40%;
+	height: 40%;
+	border: 1px;
+	border-radius: 5px;
+	float: center;
+	position: center;
+	-webkit-box-shadow: 1px 5px 13px 17px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 5px 13px 17px rgba(0,0,0,0.75);
+box-shadow: 1px 5px 13px 17px rgba(168, 240, 250, 0.75);
+}
+
+#tab_per{
+position: relative;
+
+}
