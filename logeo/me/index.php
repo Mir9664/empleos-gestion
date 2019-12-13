@@ -27,7 +27,7 @@
                         <div class="col-md-12">
                             <div class="panel panel-link">
                                 <center>
-                                <img src="../images/bienvenido_gif.gif" alt="">
+                                <img src="../images/bienvenido.png" alt="">
                             </center>
                             </div>
                         </div>

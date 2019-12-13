@@ -197,7 +197,7 @@
       <div class="col-lg-12"  style="background-color:#1469a9" display>
        <h2 align="center" class="text-muted">Empleos.com</h2>
         <div class="modal-footer" align="left">
-                                <button onclick="location.href='../index.php'" class="btn btn-danger"><i class="fa fa-sign-out"></i>Salir</button>
+                                <button onclick="location.href='../index.php'" class="btn btn-danger"><i class="fa fa-sign-out"></i>Regresar</button>
                             </div>
       </div>
     </div>  
@@ -329,8 +329,8 @@
                              <div class="form-group">
                                 <select name="sexo" id="sexo" class="form-control">
                                     <option value="">Seleccione Sexo</option>
-                                    <option value="H">Masculino</option>
-                                    <option value="M">Femenino</option>
+                                    <option value="H">Hombre</option>
+                                    <option value="M">Mujer</option>
                                 </select>
                                 <label id="mensaje2" style="display:none;color:red">Campo Vacio / Ingrese su Email</label>
                             </div>
@@ -366,6 +366,7 @@
                             </div>
                             <div class="modal-footer">
                                 <button id="g" class="btn btn-primary"><i class="fa fa-save"></i>Guardar</button>
+                                <button class="btn btn-secondary"><i href="index.php"></i>Cancelar</button>
                                <!-- <button onclick="location.href='../index.php'" class="btn btn-danger"><i class="fa fa-sign-out"></i>Salir</button>-->
                             </div>
                     </form>
